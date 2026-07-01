@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Output
+output/
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
